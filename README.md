@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-My name is Wasem Aljundy Software engineering and Full Stack Developer for Mobile <br>on All Platforms (Android/IOS).<br>Graduated from Software engineering major and I specialized in App Development <br>I have a great knowledge in Develop Mobile Applications using:<br>• Dart<br>• Flutter<br>• Android studio (Java and XML) Native development<br>Also, I can handle Front-End Web develop using:<br>• HTML<br>• CSS<br>• Bootstrap<br>• Java Script<br>And Back-End Develop using:<br>• PHP <br> Laravel <br>• MySQL<br>• Firebase Analytics Dashboard<br>• Firebase In-App Messaging<br>• Firebase Authentication<br>• Firebase Cloud Messaging<br>• Firestore Database
+My name is Wasem Aljundy Software engineering and Full Stack Developer for Mobile <br>on All Platforms (Android/IOS).<br>Graduated from Software engineering major and I specialized in App Development <br>- I have a great knowledge in Develop Mobile Applications using:<br>• Dart<br>• Flutter<br>• Android studio (Java and XML) Native development<br>•Xcode Swift IOS Native development <br>- Also, I can handle Front-End Web develop using:<br>• HTML<br>• CSS<br>• Bootstrap<br>• Java Script<br>- And Back-End Develop using:<br>• PHP <br>• Laravel <br>• MySQL<br>• Firebase Analytics Dashboard<br>• Firebase In-App Messaging<br>• Firebase Authentication<br>• Firebase Cloud Messaging<br>• Firestore Database
 
 
 ## 🌐 Socials:
